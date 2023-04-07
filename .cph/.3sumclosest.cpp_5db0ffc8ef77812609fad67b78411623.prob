@@ -1,0 +1,1 @@
+{"name":"Local: 3sumclosest","url":"c:\\Users\\USER\\Desktop\\CDing\\3sumclosest.cpp","tests":[{"id":1665059807108,"input":"9\n4 0 5 -5 3 3 0 -4 - 5\n-2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\USER\\Desktop\\CDing\\3sumclosest.cpp","group":"local","local":true}

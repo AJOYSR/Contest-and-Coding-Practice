@@ -1,0 +1,1 @@
+{"name":"Local: Exchange","url":"c:\\Users\\USER\\Desktop\\CDing\\CF contest\\Exchange.cpp","tests":[{"id":1669816871903,"input":"4\n100 25 30\n9999997 25 50\n52 50 48\n49 50 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\USER\\Desktop\\CDing\\CF contest\\Exchange.cpp","group":"local","local":true}
