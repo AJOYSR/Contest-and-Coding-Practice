@@ -1,0 +1,1 @@
+{"name":"Local: 865B","url":"c:\\Users\\USER\\Desktop\\Important\\CDing\\CF contest\\865B.cpp","tests":[{"id":1681054345726,"input":"3\n2\n4\n6\n","output":"3 2\n1 4\n8 2 6 4\n1 5 3 7\n11 5 9 1 7 3\n6 10 2 8 4 12\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\USER\\Desktop\\Important\\CDing\\CF contest\\865B.cpp","group":"local","local":true}
